@@ -1,0 +1,22 @@
+
+{
+    "sodas":
+        [
+        {"name":"G3-Energy" ,"price":25,"available": 20,  "description":"Energy drink for those whose activities are beyond 8 hours a day"},
+        {"name":"D4-0R0" ,"price":13,"available": 20,  "description":"This is a strawberry drink. It has 0.8mg of artificial flavour, colourant, caffeine"},
+        {"name":"L0R-50" ,"price":9,"available": 20,  "description":"A tropical beverage. Adored by the kids"},
+        {"name":"W-03" ,"price":10,"available": 20,  "description":"An imported beverage. We don't know much about it."},
+        {"name":"PWR-Green Edition" ,"available": 20, "price":15, "description":"A new flavor for the PWR saga. This one is made of green apple juice"},
+        {"name":"C0RK3" ,"price":12, "available": 20, "description":"Pretty much a cheaper version of other green-soda"},
+        {"name":"D4RK" ,"price":11, "available": 20, "description":"A dark chocolate soda"}
+        ],
+    "money":[
+        {"value": 50, "ammount": 5},
+        {"value": 20, "ammount": 6},
+        {"value": 10, "ammount": 20},
+        {"value": 5, "ammount": 42},
+        {"value": 2, "ammount": 60},
+        {"value": 1, "ammount": 100}
+    ]
+    
+}
