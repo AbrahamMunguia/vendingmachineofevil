@@ -4,8 +4,8 @@
 
 My name is Eviru! The evil vending machine! So, my dear friends, we'll be using this as a little test to understand your logic, developer skills and, creativity! 
 
-Difficulty: **Medium**
-Objectives:
+* Difficulty: **Medium**
+* Objectives:
 
 # CSS:
 1. Create a CSS file named 'utils.css' and, import it to the main HTML file. (index.HTML)
@@ -22,7 +22,7 @@ Extra:
 
 # JS (Javascript)
 1. Discover why the method 'getSodas' is not working
-2. Use the method 'sekibanki' to provide the change. Feel free to use anything to accomplish this. (Create variables, methods, files, anything)
+2. Use the method 'sekibanki' to provide the change. Feel free to use anything to accomplish this. (*Create variables, methods, files, rename methods, anything*)
  * Things you will need to calculate:
  * How many 'x' coins are needed to fulfil the amount.
  * i.e. The user paid with $14, selects a beverage of $12. His change should be 2. Either provide 2 coins of $1 or, 1 coin of $2. 
