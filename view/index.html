@@ -24,9 +24,9 @@
   <section id="machine">
     <div class="container">
       <div class="row">
-          <div class="col s12 m12 l12 xl12">
+          <div class="col s12 m12 l12 xl12" id="shr3k">
             <span>WELCOME TO THE DEVILS MACHINE! we NOW can proceed to PICK your beverages. Hit on the red button to dispatch it.
-              Then, check if your beverage droped!
+              Then, check if your beverage droped! ThiS TOTALLY Not A refErence to a VIdeoGame
             </span>
           </div>
           <div class="col s6 m6 l6 xl6" id="dataOfMachine">
@@ -34,7 +34,7 @@
           <div class="col s6 m6 l6 xl6" id="dataOfDispatch">
             <p>Current price: <span id="currentPrice"></span></p>
             <form id="reviewOrder" class="">
-                <input placeholder="Placeholder" id="moneyByUser" type="number" class="validate" min="0" max="100" onchange="changeValue()">
+                <input placeholder="Placeholder" id="moneyByUser" type="number" class="validate" onchange="changeValue()">
                 <label for="moneyByUser">Cash</label>
                 <a class="waves-effect waves-light btn" style="display:block" onclick="payForIt()">Pay</a>
             </form>
@@ -44,6 +44,5 @@
   </section>
 </body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-<script src="../js/init.js"></script>
 <script src="../js/main.js"></script>
 </html>
