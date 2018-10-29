@@ -1,5 +1,15 @@
 # Vending machine of Evil!
 
+**Before we start:**
+
+1. The instructor will provide with a branch. Use **only said branch** for this training.
+2. Download with **git clone** 
+3. Change to your branch.
+
+* Note: You will need to host it locally thus, I highly suggest using *Visual Studio Code* with the extension of *live server* it eases the burden of reloading after every change too. If, you go down this road, select 'index.html' as your service. (Right click-> 'Open with Live Server')
+
+* Note 2: Do not peek into other's branches. It is likely it will be recorded this will heavily impact on your image.
+
 **Welcome developer!**
 
 My name is Eviru! The evil vending machine! So, my dear friends, we'll be using this as a little test to understand your logic, developer skills and, creativity! 
